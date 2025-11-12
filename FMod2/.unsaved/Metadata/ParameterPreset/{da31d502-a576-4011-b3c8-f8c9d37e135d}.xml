@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{da31d502-a576-4011-b3c8-f8c9d37e135d}">
+		<property name="name">
+			<value>Lluvia</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8e3d5bbc-19a4-433e-889c-4f7a2eae315f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{528dc24a-5a5c-40ac-adf2-b38b4ef453d4}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{528dc24a-5a5c-40ac-adf2-b38b4ef453d4}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
