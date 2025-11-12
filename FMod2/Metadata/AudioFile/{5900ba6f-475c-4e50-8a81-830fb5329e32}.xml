@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5900ba6f-475c-4e50-8a81-830fb5329e32}">
+		<property name="assetPath">
+			<value>tormenta/trueno6.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>10.007823129251701</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{39e7732c-ec92-436f-80a1-530fcbd75f2a}</destination>
+		</relationship>
+	</object>
+</objects>
